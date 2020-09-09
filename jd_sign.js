@@ -2,6 +2,7 @@
 // create by zhihua
 // detail url: https://github.com/ruicky/jd_sign_bot
 
+//
 const exec = require('child_process').execSync
 const fs = require('fs')
 const rp = require('request-promise')
